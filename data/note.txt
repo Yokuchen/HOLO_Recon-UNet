@@ -1,0 +1,8 @@
+create the folders as follow
+- /depth_images
+- /train_images
+- /train_masks
+- /val_images
+- /val_masks
+
+
