@@ -1,5 +1,5 @@
 ### Experimental U-Net for RGB hologram reconstruction
-Takes in 4-channel RGBD image and output 3-channel RGB recontructed image\
+Takes in 4-channel RGBD image and output 3-channel RGB reconstructed image\
 Outputs under `/saved_images`\
 Inputs folders are specified under `/data`\
 Run train.py to reconstruct input holograms\
